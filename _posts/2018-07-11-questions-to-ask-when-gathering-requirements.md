@@ -1,7 +1,9 @@
-Why is the system needed or desired? What problem does the system solve? How does the system solve the problems?
+## Ask the questions below to ascertain the 5W's of the project
 
-Who are the users? what do they care about and not care about?
+* Why is the system needed or desired? What problem does the system solve? How does the system solve the problems?
 
-What does the system need to do? what is required versus nice-to-have?
+* Who are the users? what do they care about and not care about?
 
-When do the users need and/or want the solution?
+* What does the system need to do? what is required versus nice-to-have?
+
+* When do the users need and/or want the solution?
